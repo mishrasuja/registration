@@ -1,0 +1,82 @@
+
+
+
+body{ background:#dee9ff;}
+.con{
+  width: 100%;
+  background:#FFFFFF;
+  margin:0 auto;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+h1{
+    
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 25px;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:#6f6f6f;
+  text-align: center; 
+  
+}
+
+table{
+  font-family: Calibri; 
+  color:#6f6f6f; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  background-color: #ffffff; 
+  border-collapse: collapse; 
+  border-radius:10px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.075);
+}
+
+.submit{
+    
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #5791ff;
+    border: none;
+    color: white;
+	width:400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
